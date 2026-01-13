@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://anna-s-dev.github.io/sitemap.xml
